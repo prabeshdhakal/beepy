@@ -1,3 +1,9 @@
+.. raw:: html
+
+   <div style="background-color:#FFA500; color:black; padding:10px; font-weight:bold;">
+   WARNING: Beepy is currently not working due to the deprecation of its dependency, simpleaudio.  A fix or alternative is being investigated.
+   </div>
+
 =========================
 beepy Package
 =========================

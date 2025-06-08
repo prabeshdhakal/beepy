@@ -1,0 +1,28 @@
+# macOS
+.DS_STORE
+
+# IDEs
+.vscode
+.idea
+
+# Python artifacts
+*.pyc
+/dist/
+/__pycache__/
+/*.egg-info
+/*.egg
+
+# Virtual Environments
+venv/
+.venv/
+
+# Logging and temporary files
+*.log
+*.swp
+
+# Testing and coverage
+htmlcov/
+.tox/
+
+# Build artifacts
+build/

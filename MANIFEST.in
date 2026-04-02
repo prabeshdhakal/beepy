@@ -5,4 +5,4 @@ include README.rst
 include LICENSE.txt
 
 # Include the audio data files
-include beepy/audio_data/*.wav
+recursive-include beepy/audio_data *.wav
